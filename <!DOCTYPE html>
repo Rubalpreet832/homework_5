@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<htmL>
+     <head>
+        <title>Clone this website</title>
+     </head>
+     <body>
+      <h1><strong>Clone this page</strong> </h1>  
+    <p>The goal of this assignment is to replicate this page,to the beat of your ability,without having seen the HTML  code</p>
+     <p>The exercise will help you understand how to break a webpage into sections in your mind before creating the code,which will allow you to code much more efficiently.</p>
+     <ul>
+     <u>Take a note to replicate things like:</u>
+     <li>Size of headers in relation to other headers.</li>
+     <li>The target value of links(they will state whether they open in new tab or not)</li>  
+     <li>ul vs ol vs dl option ,with list-type specifications</li>
+     </ul>
+     <p><strong>You will be recreating this entire page,however in place of the assignment details, use lorem ipsum as a space filler</strong></p>
+     <h1>This <a href="https://www.google.com/" target="blank">Link </a> will open Google in a new tab</h1>
+     <h2>This <a href="/home/rubalpreet/forms.html"> Link</a> will open a second HTML document,in the same browser tab,and the second page will contains 100 words of lorem ipsum ,and a link that will return back to the main HTML document.</h2>
+ <h3>This <a href="/home/rubalpreet/Documents/thirdwebpage.html"  target="blank"> Link</a> will open a third HTML document,in the new browser tab ,containing an image of your choice,with a description of the photo below,as well as a link back to the main page.</h3>
+
+
+     <p><b><i>Make the following list as accurately as you can:</i></b></p>
+     <ol type ="a">
+     First list
+     <li>1st item in list</li>
+     <li>2nd item</li>
+     <li>3rd item</li>
+     </ol>
+     <ul style="list-style-type:square">
+   Second list
+     <li> 1st item in 2nd list</li>
+      &nbsp;  &nbsp;  this is additional information about the 1st item
+      <li>2nd item in 2nd list</li>
+       &nbsp;  &nbsp;this is additional information about the 2nd item
+     <li>3rd item in 2nd list</li>
+     
+       &nbsp; &nbsp;this is additional information about the 3rd item
+       <li>4th item in 2nd list</li>
+  &nbsp;  &nbsp;this is additional information about the 4th item
+
+</ul>
+</body>
+</html>
+
+
+

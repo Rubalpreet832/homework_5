@@ -1,0 +1,39 @@
+<!DOCTYPE html.
+<html>
+<head>
+<title>Contact list</title>
+</head>
+<body>
+<h1><strong>Styling contact list</strong></h1>
+<dl>
+<ol>
+   <dt>  <strong>Simran kaur</strong></dt>  
+      <li><em>email:simran@02.com</em></li>
+      <li>phone:345768768</li>
+     <li>city:Amritsar</li>
+</ol>
+</br>
+<ol>
+
+  <dt> <strong>Manpreet kaur</strong></dt>
+      <li><em>email:manpreet@01.com</em></li>
+      <li>phone:4657798323</li>
+      <li>city:ludhiana</li>
+</ol>
+</br>
+<ol>
+    <dt>  <strong>Amandeep kaur</strong></dt>
+     <li><em>email:aman@.com</em></li>
+     <li>phone:35465722</li>
+     <li>city:jaipur</li>
+</ol>
+</body>
+</html>
+
+
+
+
+
+
+
+
