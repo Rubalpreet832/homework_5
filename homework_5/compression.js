@@ -16,5 +16,5 @@ function stringCompression (str) {
   }
   
 
-  stringCompression("QQQUUUUUUUlllllllqqQQQQQQQQQTTA"); 
+  stringCompression("QQQUUUUUUUlllllllqqQQQQQQQQQTTA"); //Q3U7l7q2Q9T2A1  
   
