@@ -1,11 +1,5 @@
-function pangrams(s) {
+const isPangram = (string) => 
+     new Set(string.toLowerCase().match(/[a-z]/g)).size === 26;
 
-    const exp = /[a-z]/gi; 
- 
-    if (s.includes(exp)) {
-      return 'pangram';
-    } else {
-      return 'not pangram';
-    } 
-    
- }
+console.log(isPangram("abcdefghijklmnopqrstuvwxyz"));  //true
+console.log(isPangram("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa")); //false
